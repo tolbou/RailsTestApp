@@ -1,0 +1,664 @@
+2024-07-06 14:32:13,812 - ERROR - エラーが発生しました: Message: 
+Stacktrace:
+0   chromedriver                        0x0000000100832a80 chromedriver + 4385408
+1   chromedriver                        0x000000010082b38c chromedriver + 4354956
+2   chromedriver                        0x0000000100448b0c chromedriver + 281356
+3   chromedriver                        0x000000010048b2f8 chromedriver + 553720
+4   chromedriver                        0x00000001004c3d24 chromedriver + 785700
+5   chromedriver                        0x000000010047feec chromedriver + 507628
+6   chromedriver                        0x00000001004808c4 chromedriver + 510148
+7   chromedriver                        0x00000001007fa43c chromedriver + 4154428
+8   chromedriver                        0x00000001007feea0 chromedriver + 4173472
+9   chromedriver                        0x00000001007dfff8 chromedriver + 4046840
+10  chromedriver                        0x00000001007ff78c chromedriver + 4175756
+11  chromedriver                        0x00000001007d2fb8 chromedriver + 3993528
+12  chromedriver                        0x000000010081d21c chromedriver + 4297244
+13  chromedriver                        0x000000010081d398 chromedriver + 4297624
+14  chromedriver                        0x000000010082af84 chromedriver + 4353924
+15  libsystem_pthread.dylib             0x0000000180b8af94 _pthread_start + 136
+16  libsystem_pthread.dylib             0x0000000180b85d34 thread_start + 8
+
+2024-07-06 14:33:56,183 - ERROR - エラーが発生しました: Message: 
+Stacktrace:
+0   chromedriver                        0x0000000102922a80 chromedriver + 4385408
+1   chromedriver                        0x000000010291b38c chromedriver + 4354956
+2   chromedriver                        0x0000000102538b0c chromedriver + 281356
+3   chromedriver                        0x000000010257b2f8 chromedriver + 553720
+4   chromedriver                        0x00000001025b3d24 chromedriver + 785700
+5   chromedriver                        0x000000010256feec chromedriver + 507628
+6   chromedriver                        0x00000001025708c4 chromedriver + 510148
+7   chromedriver                        0x00000001028ea43c chromedriver + 4154428
+8   chromedriver                        0x00000001028eeea0 chromedriver + 4173472
+9   chromedriver                        0x00000001028cfff8 chromedriver + 4046840
+10  chromedriver                        0x00000001028ef78c chromedriver + 4175756
+11  chromedriver                        0x00000001028c2fb8 chromedriver + 3993528
+12  chromedriver                        0x000000010290d21c chromedriver + 4297244
+13  chromedriver                        0x000000010290d398 chromedriver + 4297624
+14  chromedriver                        0x000000010291af84 chromedriver + 4353924
+15  libsystem_pthread.dylib             0x0000000180b8af94 _pthread_start + 136
+16  libsystem_pthread.dylib             0x0000000180b85d34 thread_start + 8
+
+2024-07-06 14:35:09,987 - ERROR - エラーが発生しました: Message: 
+Stacktrace:
+0   chromedriver                        0x0000000100692a80 chromedriver + 4385408
+1   chromedriver                        0x000000010068b38c chromedriver + 4354956
+2   chromedriver                        0x00000001002a8b0c chromedriver + 281356
+3   chromedriver                        0x00000001002eb2f8 chromedriver + 553720
+4   chromedriver                        0x0000000100323d24 chromedriver + 785700
+5   chromedriver                        0x00000001002dfeec chromedriver + 507628
+6   chromedriver                        0x00000001002e08c4 chromedriver + 510148
+7   chromedriver                        0x000000010065a43c chromedriver + 4154428
+8   chromedriver                        0x000000010065eea0 chromedriver + 4173472
+9   chromedriver                        0x000000010063fff8 chromedriver + 4046840
+10  chromedriver                        0x000000010065f78c chromedriver + 4175756
+11  chromedriver                        0x0000000100632fb8 chromedriver + 3993528
+12  chromedriver                        0x000000010067d21c chromedriver + 4297244
+13  chromedriver                        0x000000010067d398 chromedriver + 4297624
+14  chromedriver                        0x000000010068af84 chromedriver + 4353924
+15  libsystem_pthread.dylib             0x0000000180b8af94 _pthread_start + 136
+16  libsystem_pthread.dylib             0x0000000180b85d34 thread_start + 8
+
+2024-07-06 14:35:44,325 - INFO - ログイン情報保存ダイアログが表示されませんでした
+2024-07-06 14:35:54,494 - ERROR - エラーが発生しました: Message: 
+Stacktrace:
+0   chromedriver                        0x000000010297aa80 chromedriver + 4385408
+1   chromedriver                        0x000000010297338c chromedriver + 4354956
+2   chromedriver                        0x0000000102590b0c chromedriver + 281356
+3   chromedriver                        0x00000001025d32f8 chromedriver + 553720
+4   chromedriver                        0x000000010260bd24 chromedriver + 785700
+5   chromedriver                        0x00000001025c7eec chromedriver + 507628
+6   chromedriver                        0x00000001025c88c4 chromedriver + 510148
+7   chromedriver                        0x000000010294243c chromedriver + 4154428
+8   chromedriver                        0x0000000102946ea0 chromedriver + 4173472
+9   chromedriver                        0x0000000102927ff8 chromedriver + 4046840
+10  chromedriver                        0x000000010294778c chromedriver + 4175756
+11  chromedriver                        0x000000010291afb8 chromedriver + 3993528
+12  chromedriver                        0x000000010296521c chromedriver + 4297244
+13  chromedriver                        0x0000000102965398 chromedriver + 4297624
+14  chromedriver                        0x0000000102972f84 chromedriver + 4353924
+15  libsystem_pthread.dylib             0x0000000180b8af94 _pthread_start + 136
+16  libsystem_pthread.dylib             0x0000000180b85d34 thread_start + 8
+
+2024-07-06 14:36:30,060 - INFO - ログイン情報保存ダイアログが表示されませんでした
+2024-07-06 14:36:40,545 - ERROR - エラーが発生しました: Message: 
+Stacktrace:
+0   chromedriver                        0x000000010311ea80 chromedriver + 4385408
+1   chromedriver                        0x000000010311738c chromedriver + 4354956
+2   chromedriver                        0x0000000102d34b0c chromedriver + 281356
+3   chromedriver                        0x0000000102d772f8 chromedriver + 553720
+4   chromedriver                        0x0000000102dafd24 chromedriver + 785700
+5   chromedriver                        0x0000000102d6beec chromedriver + 507628
+6   chromedriver                        0x0000000102d6c8c4 chromedriver + 510148
+7   chromedriver                        0x00000001030e643c chromedriver + 4154428
+8   chromedriver                        0x00000001030eaea0 chromedriver + 4173472
+9   chromedriver                        0x00000001030cbff8 chromedriver + 4046840
+10  chromedriver                        0x00000001030eb78c chromedriver + 4175756
+11  chromedriver                        0x00000001030befb8 chromedriver + 3993528
+12  chromedriver                        0x000000010310921c chromedriver + 4297244
+13  chromedriver                        0x0000000103109398 chromedriver + 4297624
+14  chromedriver                        0x0000000103116f84 chromedriver + 4353924
+15  libsystem_pthread.dylib             0x0000000180b8af94 _pthread_start + 136
+16  libsystem_pthread.dylib             0x0000000180b85d34 thread_start + 8
+
+2024-07-06 14:43:42,616 - INFO - ログイン情報保存ダイアログが表示されませんでした
+2024-07-06 14:43:52,839 - ERROR - エラーが発生しました: Message: 
+Stacktrace:
+0   chromedriver                        0x0000000104c7ea80 chromedriver + 4385408
+1   chromedriver                        0x0000000104c7738c chromedriver + 4354956
+2   chromedriver                        0x0000000104894b0c chromedriver + 281356
+3   chromedriver                        0x00000001048d72f8 chromedriver + 553720
+4   chromedriver                        0x000000010490fd24 chromedriver + 785700
+5   chromedriver                        0x00000001048cbeec chromedriver + 507628
+6   chromedriver                        0x00000001048cc8c4 chromedriver + 510148
+7   chromedriver                        0x0000000104c4643c chromedriver + 4154428
+8   chromedriver                        0x0000000104c4aea0 chromedriver + 4173472
+9   chromedriver                        0x0000000104c2bff8 chromedriver + 4046840
+10  chromedriver                        0x0000000104c4b78c chromedriver + 4175756
+11  chromedriver                        0x0000000104c1efb8 chromedriver + 3993528
+12  chromedriver                        0x0000000104c6921c chromedriver + 4297244
+13  chromedriver                        0x0000000104c69398 chromedriver + 4297624
+14  chromedriver                        0x0000000104c76f84 chromedriver + 4353924
+15  libsystem_pthread.dylib             0x0000000180b8af94 _pthread_start + 136
+16  libsystem_pthread.dylib             0x0000000180b85d34 thread_start + 8
+
+2024-07-06 14:48:05,073 - INFO - ログイン情報保存ダイアログが表示されませんでした
+2024-07-06 14:48:15,254 - ERROR - エレメントのクリックに失敗しました: //div[@class='x9f619 x3nfvp2 xr9ek0c xjpr12u xo237n4 x6pnmvc x7nr27j x12dmmrz xz9dl7a xn6708d xsag5q8 x1ye3gou x80pfx3 x159b3zp x1dn74xm xif99yt x172qv1o x10djquj x1lhsz42 xzauu7c xdoji71 x1dejxi8 x9k3k5o xs3sg5q x11hdxyr x12ldp4w x1wj20lx x1lq5wgf xgqcy7u x30kzoy x9jhf4c']//div[@class='x9f619 xxk0z11 xii2z7h x11xpdln x19c4wfv xvy4d1p']//svg[@aria-label='検索'], エラー: Message: 
+Stacktrace:
+0   chromedriver                        0x0000000100cc6a80 chromedriver + 4385408
+1   chromedriver                        0x0000000100cbf38c chromedriver + 4354956
+2   chromedriver                        0x00000001008dcb0c chromedriver + 281356
+3   chromedriver                        0x000000010091f2f8 chromedriver + 553720
+4   chromedriver                        0x0000000100957d24 chromedriver + 785700
+5   chromedriver                        0x0000000100913eec chromedriver + 507628
+6   chromedriver                        0x00000001009148c4 chromedriver + 510148
+7   chromedriver                        0x0000000100c8e43c chromedriver + 4154428
+8   chromedriver                        0x0000000100c92ea0 chromedriver + 4173472
+9   chromedriver                        0x0000000100c73ff8 chromedriver + 4046840
+10  chromedriver                        0x0000000100c9378c chromedriver + 4175756
+11  chromedriver                        0x0000000100c66fb8 chromedriver + 3993528
+12  chromedriver                        0x0000000100cb121c chromedriver + 4297244
+13  chromedriver                        0x0000000100cb1398 chromedriver + 4297624
+14  chromedriver                        0x0000000100cbef84 chromedriver + 4353924
+15  libsystem_pthread.dylib             0x0000000180b8af94 _pthread_start + 136
+16  libsystem_pthread.dylib             0x0000000180b85d34 thread_start + 8
+
+2024-07-06 14:48:15,254 - ERROR - エラーが発生しました: Message: 
+Stacktrace:
+0   chromedriver                        0x0000000100cc6a80 chromedriver + 4385408
+1   chromedriver                        0x0000000100cbf38c chromedriver + 4354956
+2   chromedriver                        0x00000001008dcb0c chromedriver + 281356
+3   chromedriver                        0x000000010091f2f8 chromedriver + 553720
+4   chromedriver                        0x0000000100957d24 chromedriver + 785700
+5   chromedriver                        0x0000000100913eec chromedriver + 507628
+6   chromedriver                        0x00000001009148c4 chromedriver + 510148
+7   chromedriver                        0x0000000100c8e43c chromedriver + 4154428
+8   chromedriver                        0x0000000100c92ea0 chromedriver + 4173472
+9   chromedriver                        0x0000000100c73ff8 chromedriver + 4046840
+10  chromedriver                        0x0000000100c9378c chromedriver + 4175756
+11  chromedriver                        0x0000000100c66fb8 chromedriver + 3993528
+12  chromedriver                        0x0000000100cb121c chromedriver + 4297244
+13  chromedriver                        0x0000000100cb1398 chromedriver + 4297624
+14  chromedriver                        0x0000000100cbef84 chromedriver + 4353924
+15  libsystem_pthread.dylib             0x0000000180b8af94 _pthread_start + 136
+16  libsystem_pthread.dylib             0x0000000180b85d34 thread_start + 8
+
+2024-07-06 14:51:07,327 - INFO - ログイン情報保存ダイアログが表示されませんでした
+2024-07-06 14:51:17,556 - ERROR - エレメントのクリックに失敗しました: //div[@class='x9f619 x3nfvp2 xr9ek0c xjpr12u xo237n4 x6pnmvc x7nr27j x12dmmrz xz9dl7a xn6708d xsag5q8 x1ye3gou x80pfx3 x159b3zp x1dn74xm xif99yt x172qv1o x10djquj x1lhsz42 xzauu7c xdoji71 x1dejxi8 x9k3k5o xs3sg5q x11hdxyr x12ldp4w x1wj20lx x1lq5wgf xgqcy7u x30kzoy x9jhf4c']//div[@class='x9f619 xxk0z11 xii2z7h x11xpdln x19c4wfv xvy4d1p']//svg[@aria-label='検索'], エラー: Message: 
+Stacktrace:
+0   chromedriver                        0x00000001051a2a80 chromedriver + 4385408
+1   chromedriver                        0x000000010519b38c chromedriver + 4354956
+2   chromedriver                        0x0000000104db8b0c chromedriver + 281356
+3   chromedriver                        0x0000000104dfb2f8 chromedriver + 553720
+4   chromedriver                        0x0000000104e33d24 chromedriver + 785700
+5   chromedriver                        0x0000000104defeec chromedriver + 507628
+6   chromedriver                        0x0000000104df08c4 chromedriver + 510148
+7   chromedriver                        0x000000010516a43c chromedriver + 4154428
+8   chromedriver                        0x000000010516eea0 chromedriver + 4173472
+9   chromedriver                        0x000000010514fff8 chromedriver + 4046840
+10  chromedriver                        0x000000010516f78c chromedriver + 4175756
+11  chromedriver                        0x0000000105142fb8 chromedriver + 3993528
+12  chromedriver                        0x000000010518d21c chromedriver + 4297244
+13  chromedriver                        0x000000010518d398 chromedriver + 4297624
+14  chromedriver                        0x000000010519af84 chromedriver + 4353924
+15  libsystem_pthread.dylib             0x0000000180b8af94 _pthread_start + 136
+16  libsystem_pthread.dylib             0x0000000180b85d34 thread_start + 8
+
+2024-07-06 14:51:17,566 - ERROR - エラーが発生しました: Message: 
+Stacktrace:
+0   chromedriver                        0x00000001051a2a80 chromedriver + 4385408
+1   chromedriver                        0x000000010519b38c chromedriver + 4354956
+2   chromedriver                        0x0000000104db8b0c chromedriver + 281356
+3   chromedriver                        0x0000000104dfb2f8 chromedriver + 553720
+4   chromedriver                        0x0000000104e33d24 chromedriver + 785700
+5   chromedriver                        0x0000000104defeec chromedriver + 507628
+6   chromedriver                        0x0000000104df08c4 chromedriver + 510148
+7   chromedriver                        0x000000010516a43c chromedriver + 4154428
+8   chromedriver                        0x000000010516eea0 chromedriver + 4173472
+9   chromedriver                        0x000000010514fff8 chromedriver + 4046840
+10  chromedriver                        0x000000010516f78c chromedriver + 4175756
+11  chromedriver                        0x0000000105142fb8 chromedriver + 3993528
+12  chromedriver                        0x000000010518d21c chromedriver + 4297244
+13  chromedriver                        0x000000010518d398 chromedriver + 4297624
+14  chromedriver                        0x000000010519af84 chromedriver + 4353924
+15  libsystem_pthread.dylib             0x0000000180b8af94 _pthread_start + 136
+16  libsystem_pthread.dylib             0x0000000180b85d34 thread_start + 8
+
+2024-07-06 15:00:36,560 - INFO - ログイン情報保存ダイアログが表示されませんでした
+2024-07-06 15:00:46,740 - ERROR - エレメントのクリックに失敗しました: //div[@class='x9f619 x3nfvp2 xr9ek0c xjpr12u xo237n4 x6pnmvc x7nr27j x12dmmrz xz9dl7a xn6708d xsag5q8 x1ye3gou x80pfx3 x159b3zp x1dn74xm xif99yt x172qv1o x10djquj x1lhsz42 xzauu7c xdoji71 x1dejxi8 x9k3k5o xs3sg5q x11hdxyr x12ldp4w x1wj20lx x1lq5wgf xgqcy7u x30kzoy x9jhf4c']//div[@class='x9f619 xxk0z11 xii2z7h x11xpdln x19c4wfv xvy4d1p']//svg[@aria-label='検索'], エラー: Message: 
+Stacktrace:
+0   chromedriver                        0x0000000100a8aa80 chromedriver + 4385408
+1   chromedriver                        0x0000000100a8338c chromedriver + 4354956
+2   chromedriver                        0x00000001006a0b0c chromedriver + 281356
+3   chromedriver                        0x00000001006e32f8 chromedriver + 553720
+4   chromedriver                        0x000000010071bd24 chromedriver + 785700
+5   chromedriver                        0x00000001006d7eec chromedriver + 507628
+6   chromedriver                        0x00000001006d88c4 chromedriver + 510148
+7   chromedriver                        0x0000000100a5243c chromedriver + 4154428
+8   chromedriver                        0x0000000100a56ea0 chromedriver + 4173472
+9   chromedriver                        0x0000000100a37ff8 chromedriver + 4046840
+10  chromedriver                        0x0000000100a5778c chromedriver + 4175756
+11  chromedriver                        0x0000000100a2afb8 chromedriver + 3993528
+12  chromedriver                        0x0000000100a7521c chromedriver + 4297244
+13  chromedriver                        0x0000000100a75398 chromedriver + 4297624
+14  chromedriver                        0x0000000100a82f84 chromedriver + 4353924
+15  libsystem_pthread.dylib             0x0000000180b8af94 _pthread_start + 136
+16  libsystem_pthread.dylib             0x0000000180b85d34 thread_start + 8
+
+2024-07-06 15:00:46,751 - ERROR - エラーが発生しました: Message: 
+Stacktrace:
+0   chromedriver                        0x0000000100a8aa80 chromedriver + 4385408
+1   chromedriver                        0x0000000100a8338c chromedriver + 4354956
+2   chromedriver                        0x00000001006a0b0c chromedriver + 281356
+3   chromedriver                        0x00000001006e32f8 chromedriver + 553720
+4   chromedriver                        0x000000010071bd24 chromedriver + 785700
+5   chromedriver                        0x00000001006d7eec chromedriver + 507628
+6   chromedriver                        0x00000001006d88c4 chromedriver + 510148
+7   chromedriver                        0x0000000100a5243c chromedriver + 4154428
+8   chromedriver                        0x0000000100a56ea0 chromedriver + 4173472
+9   chromedriver                        0x0000000100a37ff8 chromedriver + 4046840
+10  chromedriver                        0x0000000100a5778c chromedriver + 4175756
+11  chromedriver                        0x0000000100a2afb8 chromedriver + 3993528
+12  chromedriver                        0x0000000100a7521c chromedriver + 4297244
+13  chromedriver                        0x0000000100a75398 chromedriver + 4297624
+14  chromedriver                        0x0000000100a82f84 chromedriver + 4353924
+15  libsystem_pthread.dylib             0x0000000180b8af94 _pthread_start + 136
+16  libsystem_pthread.dylib             0x0000000180b85d34 thread_start + 8
+
+2024-07-06 15:09:02,763 - INFO - ログイン情報保存ダイアログが表示されませんでした
+2024-07-06 15:09:12,954 - ERROR - 検索ボタンのクリックに失敗しました: Message: 
+Stacktrace:
+0   chromedriver                        0x0000000100976a80 chromedriver + 4385408
+1   chromedriver                        0x000000010096f38c chromedriver + 4354956
+2   chromedriver                        0x000000010058cb0c chromedriver + 281356
+3   chromedriver                        0x00000001005cf2f8 chromedriver + 553720
+4   chromedriver                        0x0000000100607d24 chromedriver + 785700
+5   chromedriver                        0x00000001005c3eec chromedriver + 507628
+6   chromedriver                        0x00000001005c48c4 chromedriver + 510148
+7   chromedriver                        0x000000010093e43c chromedriver + 4154428
+8   chromedriver                        0x0000000100942ea0 chromedriver + 4173472
+9   chromedriver                        0x0000000100923ff8 chromedriver + 4046840
+10  chromedriver                        0x000000010094378c chromedriver + 4175756
+11  chromedriver                        0x0000000100916fb8 chromedriver + 3993528
+12  chromedriver                        0x000000010096121c chromedriver + 4297244
+13  chromedriver                        0x0000000100961398 chromedriver + 4297624
+14  chromedriver                        0x000000010096ef84 chromedriver + 4353924
+15  libsystem_pthread.dylib             0x0000000180b8af94 _pthread_start + 136
+16  libsystem_pthread.dylib             0x0000000180b85d34 thread_start + 8
+
+2024-07-06 15:09:12,954 - ERROR - エラーが発生しました: Message: 
+Stacktrace:
+0   chromedriver                        0x0000000100976a80 chromedriver + 4385408
+1   chromedriver                        0x000000010096f38c chromedriver + 4354956
+2   chromedriver                        0x000000010058cb0c chromedriver + 281356
+3   chromedriver                        0x00000001005cf2f8 chromedriver + 553720
+4   chromedriver                        0x0000000100607d24 chromedriver + 785700
+5   chromedriver                        0x00000001005c3eec chromedriver + 507628
+6   chromedriver                        0x00000001005c48c4 chromedriver + 510148
+7   chromedriver                        0x000000010093e43c chromedriver + 4154428
+8   chromedriver                        0x0000000100942ea0 chromedriver + 4173472
+9   chromedriver                        0x0000000100923ff8 chromedriver + 4046840
+10  chromedriver                        0x000000010094378c chromedriver + 4175756
+11  chromedriver                        0x0000000100916fb8 chromedriver + 3993528
+12  chromedriver                        0x000000010096121c chromedriver + 4297244
+13  chromedriver                        0x0000000100961398 chromedriver + 4297624
+14  chromedriver                        0x000000010096ef84 chromedriver + 4353924
+15  libsystem_pthread.dylib             0x0000000180b8af94 _pthread_start + 136
+16  libsystem_pthread.dylib             0x0000000180b85d34 thread_start + 8
+
+2024-07-06 15:12:27,665 - INFO - ログイン情報保存ダイアログが表示されませんでした
+2024-07-06 15:12:37,741 - ERROR - 検索ボタンのクリックに失敗しました: Message: 
+Stacktrace:
+0   chromedriver                        0x00000001006aea80 chromedriver + 4385408
+1   chromedriver                        0x00000001006a738c chromedriver + 4354956
+2   chromedriver                        0x00000001002c4b0c chromedriver + 281356
+3   chromedriver                        0x00000001003072f8 chromedriver + 553720
+4   chromedriver                        0x000000010033fd24 chromedriver + 785700
+5   chromedriver                        0x00000001002fbeec chromedriver + 507628
+6   chromedriver                        0x00000001002fc8c4 chromedriver + 510148
+7   chromedriver                        0x000000010067643c chromedriver + 4154428
+8   chromedriver                        0x000000010067aea0 chromedriver + 4173472
+9   chromedriver                        0x000000010065bff8 chromedriver + 4046840
+10  chromedriver                        0x000000010067b78c chromedriver + 4175756
+11  chromedriver                        0x000000010064efb8 chromedriver + 3993528
+12  chromedriver                        0x000000010069921c chromedriver + 4297244
+13  chromedriver                        0x0000000100699398 chromedriver + 4297624
+14  chromedriver                        0x00000001006a6f84 chromedriver + 4353924
+15  libsystem_pthread.dylib             0x0000000180b8af94 _pthread_start + 136
+16  libsystem_pthread.dylib             0x0000000180b85d34 thread_start + 8
+
+2024-07-06 15:12:37,741 - ERROR - エラーが発生しました: Message: 
+Stacktrace:
+0   chromedriver                        0x00000001006aea80 chromedriver + 4385408
+1   chromedriver                        0x00000001006a738c chromedriver + 4354956
+2   chromedriver                        0x00000001002c4b0c chromedriver + 281356
+3   chromedriver                        0x00000001003072f8 chromedriver + 553720
+4   chromedriver                        0x000000010033fd24 chromedriver + 785700
+5   chromedriver                        0x00000001002fbeec chromedriver + 507628
+6   chromedriver                        0x00000001002fc8c4 chromedriver + 510148
+7   chromedriver                        0x000000010067643c chromedriver + 4154428
+8   chromedriver                        0x000000010067aea0 chromedriver + 4173472
+9   chromedriver                        0x000000010065bff8 chromedriver + 4046840
+10  chromedriver                        0x000000010067b78c chromedriver + 4175756
+11  chromedriver                        0x000000010064efb8 chromedriver + 3993528
+12  chromedriver                        0x000000010069921c chromedriver + 4297244
+13  chromedriver                        0x0000000100699398 chromedriver + 4297624
+14  chromedriver                        0x00000001006a6f84 chromedriver + 4353924
+15  libsystem_pthread.dylib             0x0000000180b8af94 _pthread_start + 136
+16  libsystem_pthread.dylib             0x0000000180b85d34 thread_start + 8
+
+2024-07-06 15:15:06,887 - INFO - ログイン情報保存ダイアログが表示されませんでした
+2024-07-06 15:15:06,897 - ERROR - 検索ボタンのクリックに失敗しました: Message: invalid selector
+from javascript error: {"status":32,"value":"Unable to locate an element with the xpath expression a[role='link'][tabindex='0'] svg[aria-label='検索'] because of the following error:\nSyntaxError: Failed to execute 'evaluate' on 'Document': The string 'a[role='link'][tabindex='0'] svg[aria-label='検索']' is not a valid XPath expression."}
+  (Session info: chrome=126.0.6478.127); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalid-selector-exception
+Stacktrace:
+0   chromedriver                        0x000000010085aa80 chromedriver + 4385408
+1   chromedriver                        0x000000010085338c chromedriver + 4354956
+2   chromedriver                        0x0000000100470b0c chromedriver + 281356
+3   chromedriver                        0x0000000100474fd8 chromedriver + 298968
+4   chromedriver                        0x0000000100476e58 chromedriver + 306776
+5   chromedriver                        0x0000000100476ed0 chromedriver + 306896
+6   chromedriver                        0x00000001004b3114 chromedriver + 553236
+7   chromedriver                        0x00000001004ebd24 chromedriver + 785700
+8   chromedriver                        0x00000001004a7eec chromedriver + 507628
+9   chromedriver                        0x00000001004a88c4 chromedriver + 510148
+10  chromedriver                        0x000000010082243c chromedriver + 4154428
+11  chromedriver                        0x0000000100826ea0 chromedriver + 4173472
+12  chromedriver                        0x0000000100807ff8 chromedriver + 4046840
+13  chromedriver                        0x000000010082778c chromedriver + 4175756
+14  chromedriver                        0x00000001007fafb8 chromedriver + 3993528
+15  chromedriver                        0x000000010084521c chromedriver + 4297244
+16  chromedriver                        0x0000000100845398 chromedriver + 4297624
+17  chromedriver                        0x0000000100852f84 chromedriver + 4353924
+18  libsystem_pthread.dylib             0x0000000180b8af94 _pthread_start + 136
+19  libsystem_pthread.dylib             0x0000000180b85d34 thread_start + 8
+
+2024-07-06 15:15:06,898 - ERROR - エラーが発生しました: Message: invalid selector
+from javascript error: {"status":32,"value":"Unable to locate an element with the xpath expression a[role='link'][tabindex='0'] svg[aria-label='検索'] because of the following error:\nSyntaxError: Failed to execute 'evaluate' on 'Document': The string 'a[role='link'][tabindex='0'] svg[aria-label='検索']' is not a valid XPath expression."}
+  (Session info: chrome=126.0.6478.127); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalid-selector-exception
+Stacktrace:
+0   chromedriver                        0x000000010085aa80 chromedriver + 4385408
+1   chromedriver                        0x000000010085338c chromedriver + 4354956
+2   chromedriver                        0x0000000100470b0c chromedriver + 281356
+3   chromedriver                        0x0000000100474fd8 chromedriver + 298968
+4   chromedriver                        0x0000000100476e58 chromedriver + 306776
+5   chromedriver                        0x0000000100476ed0 chromedriver + 306896
+6   chromedriver                        0x00000001004b3114 chromedriver + 553236
+7   chromedriver                        0x00000001004ebd24 chromedriver + 785700
+8   chromedriver                        0x00000001004a7eec chromedriver + 507628
+9   chromedriver                        0x00000001004a88c4 chromedriver + 510148
+10  chromedriver                        0x000000010082243c chromedriver + 4154428
+11  chromedriver                        0x0000000100826ea0 chromedriver + 4173472
+12  chromedriver                        0x0000000100807ff8 chromedriver + 4046840
+13  chromedriver                        0x000000010082778c chromedriver + 4175756
+14  chromedriver                        0x00000001007fafb8 chromedriver + 3993528
+15  chromedriver                        0x000000010084521c chromedriver + 4297244
+16  chromedriver                        0x0000000100845398 chromedriver + 4297624
+17  chromedriver                        0x0000000100852f84 chromedriver + 4353924
+18  libsystem_pthread.dylib             0x0000000180b8af94 _pthread_start + 136
+19  libsystem_pthread.dylib             0x0000000180b85d34 thread_start + 8
+
+2024-07-07 12:49:58,292 - ERROR - エラーが発生しました: Message: unknown error: net::ERR_INTERNET_DISCONNECTED
+  (Session info: chrome=126.0.6478.127)
+Stacktrace:
+0   chromedriver                        0x0000000101282a80 chromedriver + 4385408
+1   chromedriver                        0x000000010127b38c chromedriver + 4354956
+2   chromedriver                        0x0000000100e98b0c chromedriver + 281356
+3   chromedriver                        0x0000000100e91e9c chromedriver + 253596
+4   chromedriver                        0x0000000100e83a5c chromedriver + 195164
+5   chromedriver                        0x0000000100e84e18 chromedriver + 200216
+6   chromedriver                        0x0000000100e83d78 chromedriver + 195960
+7   chromedriver                        0x0000000100e8340c chromedriver + 193548
+8   chromedriver                        0x0000000100e833b8 chromedriver + 193464
+9   chromedriver                        0x0000000100e81198 chromedriver + 184728
+10  chromedriver                        0x0000000100e81b18 chromedriver + 187160
+11  chromedriver                        0x0000000100e9b0a0 chromedriver + 290976
+12  chromedriver                        0x0000000100f14364 chromedriver + 787300
+13  chromedriver                        0x0000000100f13d24 chromedriver + 785700
+14  chromedriver                        0x0000000100ecfeec chromedriver + 507628
+15  chromedriver                        0x0000000100ed08c4 chromedriver + 510148
+16  chromedriver                        0x000000010124a43c chromedriver + 4154428
+17  chromedriver                        0x000000010124eea0 chromedriver + 4173472
+18  chromedriver                        0x000000010122fff8 chromedriver + 4046840
+19  chromedriver                        0x000000010124f78c chromedriver + 4175756
+20  chromedriver                        0x0000000101222fb8 chromedriver + 3993528
+21  chromedriver                        0x000000010126d21c chromedriver + 4297244
+22  chromedriver                        0x000000010126d398 chromedriver + 4297624
+23  chromedriver                        0x000000010127af84 chromedriver + 4353924
+24  libsystem_pthread.dylib             0x0000000180b8af94 _pthread_start + 136
+25  libsystem_pthread.dylib             0x0000000180b85d34 thread_start + 8
+
+2024-07-07 12:50:34,452 - INFO - ログイン情報保存ダイアログが表示されませんでした
+2024-07-07 12:50:34,462 - ERROR - 検索ボタンのクリックに失敗しました: Message: invalid selector
+from javascript error: {"status":32,"value":"Unable to locate an element with the xpath expression a[role='link'][tabindex='0'] svg[aria-label='検索'] because of the following error:\nSyntaxError: Failed to execute 'evaluate' on 'Document': The string 'a[role='link'][tabindex='0'] svg[aria-label='検索']' is not a valid XPath expression."}
+  (Session info: chrome=126.0.6478.127); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalid-selector-exception
+Stacktrace:
+0   chromedriver                        0x000000010329aa80 chromedriver + 4385408
+1   chromedriver                        0x000000010329338c chromedriver + 4354956
+2   chromedriver                        0x0000000102eb0b0c chromedriver + 281356
+3   chromedriver                        0x0000000102eb4fd8 chromedriver + 298968
+4   chromedriver                        0x0000000102eb6e58 chromedriver + 306776
+5   chromedriver                        0x0000000102eb6ed0 chromedriver + 306896
+6   chromedriver                        0x0000000102ef3114 chromedriver + 553236
+7   chromedriver                        0x0000000102f2bd24 chromedriver + 785700
+8   chromedriver                        0x0000000102ee7eec chromedriver + 507628
+9   chromedriver                        0x0000000102ee88c4 chromedriver + 510148
+10  chromedriver                        0x000000010326243c chromedriver + 4154428
+11  chromedriver                        0x0000000103266ea0 chromedriver + 4173472
+12  chromedriver                        0x0000000103247ff8 chromedriver + 4046840
+13  chromedriver                        0x000000010326778c chromedriver + 4175756
+14  chromedriver                        0x000000010323afb8 chromedriver + 3993528
+15  chromedriver                        0x000000010328521c chromedriver + 4297244
+16  chromedriver                        0x0000000103285398 chromedriver + 4297624
+17  chromedriver                        0x0000000103292f84 chromedriver + 4353924
+18  libsystem_pthread.dylib             0x0000000180b8af94 _pthread_start + 136
+19  libsystem_pthread.dylib             0x0000000180b85d34 thread_start + 8
+
+2024-07-07 12:50:34,463 - ERROR - エラーが発生しました: Message: invalid selector
+from javascript error: {"status":32,"value":"Unable to locate an element with the xpath expression a[role='link'][tabindex='0'] svg[aria-label='検索'] because of the following error:\nSyntaxError: Failed to execute 'evaluate' on 'Document': The string 'a[role='link'][tabindex='0'] svg[aria-label='検索']' is not a valid XPath expression."}
+  (Session info: chrome=126.0.6478.127); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalid-selector-exception
+Stacktrace:
+0   chromedriver                        0x000000010329aa80 chromedriver + 4385408
+1   chromedriver                        0x000000010329338c chromedriver + 4354956
+2   chromedriver                        0x0000000102eb0b0c chromedriver + 281356
+3   chromedriver                        0x0000000102eb4fd8 chromedriver + 298968
+4   chromedriver                        0x0000000102eb6e58 chromedriver + 306776
+5   chromedriver                        0x0000000102eb6ed0 chromedriver + 306896
+6   chromedriver                        0x0000000102ef3114 chromedriver + 553236
+7   chromedriver                        0x0000000102f2bd24 chromedriver + 785700
+8   chromedriver                        0x0000000102ee7eec chromedriver + 507628
+9   chromedriver                        0x0000000102ee88c4 chromedriver + 510148
+10  chromedriver                        0x000000010326243c chromedriver + 4154428
+11  chromedriver                        0x0000000103266ea0 chromedriver + 4173472
+12  chromedriver                        0x0000000103247ff8 chromedriver + 4046840
+13  chromedriver                        0x000000010326778c chromedriver + 4175756
+14  chromedriver                        0x000000010323afb8 chromedriver + 3993528
+15  chromedriver                        0x000000010328521c chromedriver + 4297244
+16  chromedriver                        0x0000000103285398 chromedriver + 4297624
+17  chromedriver                        0x0000000103292f84 chromedriver + 4353924
+18  libsystem_pthread.dylib             0x0000000180b8af94 _pthread_start + 136
+19  libsystem_pthread.dylib             0x0000000180b85d34 thread_start + 8
+
+2024-07-07 12:52:02,160 - INFO - ログイン情報保存ダイアログが表示されませんでした
+2024-07-07 12:52:02,180 - ERROR - 検索ボタンのクリックに失敗しました: Message: invalid selector
+from javascript error: {"status":32,"value":"Unable to locate an element with the xpath expression a[role='link'][tabindex='0'] svg[aria-label='検索'] because of the following error:\nSyntaxError: Failed to execute 'evaluate' on 'Document': The string 'a[role='link'][tabindex='0'] svg[aria-label='検索']' is not a valid XPath expression."}
+  (Session info: chrome=126.0.6478.127); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalid-selector-exception
+Stacktrace:
+0   chromedriver                        0x0000000104726a80 chromedriver + 4385408
+1   chromedriver                        0x000000010471f38c chromedriver + 4354956
+2   chromedriver                        0x000000010433cb0c chromedriver + 281356
+3   chromedriver                        0x0000000104340fd8 chromedriver + 298968
+4   chromedriver                        0x0000000104342e58 chromedriver + 306776
+5   chromedriver                        0x0000000104342ed0 chromedriver + 306896
+6   chromedriver                        0x000000010437f114 chromedriver + 553236
+7   chromedriver                        0x00000001043b7d24 chromedriver + 785700
+8   chromedriver                        0x0000000104373eec chromedriver + 507628
+9   chromedriver                        0x00000001043748c4 chromedriver + 510148
+10  chromedriver                        0x00000001046ee43c chromedriver + 4154428
+11  chromedriver                        0x00000001046f2ea0 chromedriver + 4173472
+12  chromedriver                        0x00000001046d3ff8 chromedriver + 4046840
+13  chromedriver                        0x00000001046f378c chromedriver + 4175756
+14  chromedriver                        0x00000001046c6fb8 chromedriver + 3993528
+15  chromedriver                        0x000000010471121c chromedriver + 4297244
+16  chromedriver                        0x0000000104711398 chromedriver + 4297624
+17  chromedriver                        0x000000010471ef84 chromedriver + 4353924
+18  libsystem_pthread.dylib             0x0000000180b8af94 _pthread_start + 136
+19  libsystem_pthread.dylib             0x0000000180b85d34 thread_start + 8
+
+2024-07-07 12:52:02,180 - ERROR - エラーが発生しました: Message: invalid selector
+from javascript error: {"status":32,"value":"Unable to locate an element with the xpath expression a[role='link'][tabindex='0'] svg[aria-label='検索'] because of the following error:\nSyntaxError: Failed to execute 'evaluate' on 'Document': The string 'a[role='link'][tabindex='0'] svg[aria-label='検索']' is not a valid XPath expression."}
+  (Session info: chrome=126.0.6478.127); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalid-selector-exception
+Stacktrace:
+0   chromedriver                        0x0000000104726a80 chromedriver + 4385408
+1   chromedriver                        0x000000010471f38c chromedriver + 4354956
+2   chromedriver                        0x000000010433cb0c chromedriver + 281356
+3   chromedriver                        0x0000000104340fd8 chromedriver + 298968
+4   chromedriver                        0x0000000104342e58 chromedriver + 306776
+5   chromedriver                        0x0000000104342ed0 chromedriver + 306896
+6   chromedriver                        0x000000010437f114 chromedriver + 553236
+7   chromedriver                        0x00000001043b7d24 chromedriver + 785700
+8   chromedriver                        0x0000000104373eec chromedriver + 507628
+9   chromedriver                        0x00000001043748c4 chromedriver + 510148
+10  chromedriver                        0x00000001046ee43c chromedriver + 4154428
+11  chromedriver                        0x00000001046f2ea0 chromedriver + 4173472
+12  chromedriver                        0x00000001046d3ff8 chromedriver + 4046840
+13  chromedriver                        0x00000001046f378c chromedriver + 4175756
+14  chromedriver                        0x00000001046c6fb8 chromedriver + 3993528
+15  chromedriver                        0x000000010471121c chromedriver + 4297244
+16  chromedriver                        0x0000000104711398 chromedriver + 4297624
+17  chromedriver                        0x000000010471ef84 chromedriver + 4353924
+18  libsystem_pthread.dylib             0x0000000180b8af94 _pthread_start + 136
+19  libsystem_pthread.dylib             0x0000000180b85d34 thread_start + 8
+
+2024-07-07 12:52:23,976 - INFO - ログイン情報保存ダイアログが表示されませんでした
+2024-07-07 12:52:23,986 - ERROR - 検索ボタンのクリックに失敗しました: Message: invalid selector
+from javascript error: {"status":32,"value":"Unable to locate an element with the xpath expression a[role='link'][tabindex='0'] svg[aria-label='検索'] because of the following error:\nSyntaxError: Failed to execute 'evaluate' on 'Document': The string 'a[role='link'][tabindex='0'] svg[aria-label='検索']' is not a valid XPath expression."}
+  (Session info: chrome=126.0.6478.127); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalid-selector-exception
+Stacktrace:
+0   chromedriver                        0x000000010465ea80 chromedriver + 4385408
+1   chromedriver                        0x000000010465738c chromedriver + 4354956
+2   chromedriver                        0x0000000104274b0c chromedriver + 281356
+3   chromedriver                        0x0000000104278fd8 chromedriver + 298968
+4   chromedriver                        0x000000010427ae58 chromedriver + 306776
+5   chromedriver                        0x000000010427aed0 chromedriver + 306896
+6   chromedriver                        0x00000001042b7114 chromedriver + 553236
+7   chromedriver                        0x00000001042efd24 chromedriver + 785700
+8   chromedriver                        0x00000001042abeec chromedriver + 507628
+9   chromedriver                        0x00000001042ac8c4 chromedriver + 510148
+10  chromedriver                        0x000000010462643c chromedriver + 4154428
+11  chromedriver                        0x000000010462aea0 chromedriver + 4173472
+12  chromedriver                        0x000000010460bff8 chromedriver + 4046840
+13  chromedriver                        0x000000010462b78c chromedriver + 4175756
+14  chromedriver                        0x00000001045fefb8 chromedriver + 3993528
+15  chromedriver                        0x000000010464921c chromedriver + 4297244
+16  chromedriver                        0x0000000104649398 chromedriver + 4297624
+17  chromedriver                        0x0000000104656f84 chromedriver + 4353924
+18  libsystem_pthread.dylib             0x0000000180b8af94 _pthread_start + 136
+19  libsystem_pthread.dylib             0x0000000180b85d34 thread_start + 8
+
+2024-07-07 12:52:23,986 - ERROR - エラーが発生しました: Message: invalid selector
+from javascript error: {"status":32,"value":"Unable to locate an element with the xpath expression a[role='link'][tabindex='0'] svg[aria-label='検索'] because of the following error:\nSyntaxError: Failed to execute 'evaluate' on 'Document': The string 'a[role='link'][tabindex='0'] svg[aria-label='検索']' is not a valid XPath expression."}
+  (Session info: chrome=126.0.6478.127); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalid-selector-exception
+Stacktrace:
+0   chromedriver                        0x000000010465ea80 chromedriver + 4385408
+1   chromedriver                        0x000000010465738c chromedriver + 4354956
+2   chromedriver                        0x0000000104274b0c chromedriver + 281356
+3   chromedriver                        0x0000000104278fd8 chromedriver + 298968
+4   chromedriver                        0x000000010427ae58 chromedriver + 306776
+5   chromedriver                        0x000000010427aed0 chromedriver + 306896
+6   chromedriver                        0x00000001042b7114 chromedriver + 553236
+7   chromedriver                        0x00000001042efd24 chromedriver + 785700
+8   chromedriver                        0x00000001042abeec chromedriver + 507628
+9   chromedriver                        0x00000001042ac8c4 chromedriver + 510148
+10  chromedriver                        0x000000010462643c chromedriver + 4154428
+11  chromedriver                        0x000000010462aea0 chromedriver + 4173472
+12  chromedriver                        0x000000010460bff8 chromedriver + 4046840
+13  chromedriver                        0x000000010462b78c chromedriver + 4175756
+14  chromedriver                        0x00000001045fefb8 chromedriver + 3993528
+15  chromedriver                        0x000000010464921c chromedriver + 4297244
+16  chromedriver                        0x0000000104649398 chromedriver + 4297624
+17  chromedriver                        0x0000000104656f84 chromedriver + 4353924
+18  libsystem_pthread.dylib             0x0000000180b8af94 _pthread_start + 136
+19  libsystem_pthread.dylib             0x0000000180b85d34 thread_start + 8
+
+2024-07-07 12:54:31,521 - INFO - ログイン情報保存ダイアログが表示されませんでした
+2024-07-07 12:54:31,576 - ERROR - 検索ボタンのクリックに失敗しました: Message: invalid selector
+from javascript error: {"status":32,"value":"Unable to locate an element with the xpath expression a[role='link'][tabindex='0'] svg[aria-label='検索'] because of the following error:\nSyntaxError: Failed to execute 'evaluate' on 'Document': The string 'a[role='link'][tabindex='0'] svg[aria-label='検索']' is not a valid XPath expression."}
+  (Session info: chrome=126.0.6478.127); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalid-selector-exception
+Stacktrace:
+0   chromedriver                        0x00000001013eaa80 chromedriver + 4385408
+1   chromedriver                        0x00000001013e338c chromedriver + 4354956
+2   chromedriver                        0x0000000101000b0c chromedriver + 281356
+3   chromedriver                        0x0000000101004fd8 chromedriver + 298968
+4   chromedriver                        0x0000000101006e58 chromedriver + 306776
+5   chromedriver                        0x0000000101006ed0 chromedriver + 306896
+6   chromedriver                        0x0000000101043114 chromedriver + 553236
+7   chromedriver                        0x000000010107bd24 chromedriver + 785700
+8   chromedriver                        0x0000000101037eec chromedriver + 507628
+9   chromedriver                        0x00000001010388c4 chromedriver + 510148
+10  chromedriver                        0x00000001013b243c chromedriver + 4154428
+11  chromedriver                        0x00000001013b6ea0 chromedriver + 4173472
+12  chromedriver                        0x0000000101397ff8 chromedriver + 4046840
+13  chromedriver                        0x00000001013b778c chromedriver + 4175756
+14  chromedriver                        0x000000010138afb8 chromedriver + 3993528
+15  chromedriver                        0x00000001013d521c chromedriver + 4297244
+16  chromedriver                        0x00000001013d5398 chromedriver + 4297624
+17  chromedriver                        0x00000001013e2f84 chromedriver + 4353924
+18  libsystem_pthread.dylib             0x0000000180b8af94 _pthread_start + 136
+19  libsystem_pthread.dylib             0x0000000180b85d34 thread_start + 8
+
+2024-07-07 12:54:31,577 - ERROR - エラーが発生しました: Message: invalid selector
+from javascript error: {"status":32,"value":"Unable to locate an element with the xpath expression a[role='link'][tabindex='0'] svg[aria-label='検索'] because of the following error:\nSyntaxError: Failed to execute 'evaluate' on 'Document': The string 'a[role='link'][tabindex='0'] svg[aria-label='検索']' is not a valid XPath expression."}
+  (Session info: chrome=126.0.6478.127); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalid-selector-exception
+Stacktrace:
+0   chromedriver                        0x00000001013eaa80 chromedriver + 4385408
+1   chromedriver                        0x00000001013e338c chromedriver + 4354956
+2   chromedriver                        0x0000000101000b0c chromedriver + 281356
+3   chromedriver                        0x0000000101004fd8 chromedriver + 298968
+4   chromedriver                        0x0000000101006e58 chromedriver + 306776
+5   chromedriver                        0x0000000101006ed0 chromedriver + 306896
+6   chromedriver                        0x0000000101043114 chromedriver + 553236
+7   chromedriver                        0x000000010107bd24 chromedriver + 785700
+8   chromedriver                        0x0000000101037eec chromedriver + 507628
+9   chromedriver                        0x00000001010388c4 chromedriver + 510148
+10  chromedriver                        0x00000001013b243c chromedriver + 4154428
+11  chromedriver                        0x00000001013b6ea0 chromedriver + 4173472
+12  chromedriver                        0x0000000101397ff8 chromedriver + 4046840
+13  chromedriver                        0x00000001013b778c chromedriver + 4175756
+14  chromedriver                        0x000000010138afb8 chromedriver + 3993528
+15  chromedriver                        0x00000001013d521c chromedriver + 4297244
+16  chromedriver                        0x00000001013d5398 chromedriver + 4297624
+17  chromedriver                        0x00000001013e2f84 chromedriver + 4353924
+18  libsystem_pthread.dylib             0x0000000180b8af94 _pthread_start + 136
+19  libsystem_pthread.dylib             0x0000000180b85d34 thread_start + 8
+
+2024-07-07 12:55:14,278 - INFO - ログイン情報保存ダイアログが表示されませんでした
+2024-07-07 12:55:14,286 - ERROR - 検索ボタンのクリックに失敗しました: Message: invalid selector
+from javascript error: {"status":32,"value":"Unable to locate an element with the xpath expression a[role='link'][tabindex='0'] svg[aria-label='検索'] because of the following error:\nSyntaxError: Failed to execute 'evaluate' on 'Document': The string 'a[role='link'][tabindex='0'] svg[aria-label='検索']' is not a valid XPath expression."}
+  (Session info: chrome=126.0.6478.127); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalid-selector-exception
+Stacktrace:
+0   chromedriver                        0x0000000100cdea80 chromedriver + 4385408
+1   chromedriver                        0x0000000100cd738c chromedriver + 4354956
+2   chromedriver                        0x00000001008f4b0c chromedriver + 281356
+3   chromedriver                        0x00000001008f8fd8 chromedriver + 298968
+4   chromedriver                        0x00000001008fae58 chromedriver + 306776
+5   chromedriver                        0x00000001008faed0 chromedriver + 306896
+6   chromedriver                        0x0000000100937114 chromedriver + 553236
+7   chromedriver                        0x000000010096fd24 chromedriver + 785700
+8   chromedriver                        0x000000010092beec chromedriver + 507628
+9   chromedriver                        0x000000010092c8c4 chromedriver + 510148
+10  chromedriver                        0x0000000100ca643c chromedriver + 4154428
+11  chromedriver                        0x0000000100caaea0 chromedriver + 4173472
+12  chromedriver                        0x0000000100c8bff8 chromedriver + 4046840
+13  chromedriver                        0x0000000100cab78c chromedriver + 4175756
+14  chromedriver                        0x0000000100c7efb8 chromedriver + 3993528
+15  chromedriver                        0x0000000100cc921c chromedriver + 4297244
+16  chromedriver                        0x0000000100cc9398 chromedriver + 4297624
+17  chromedriver                        0x0000000100cd6f84 chromedriver + 4353924
+18  libsystem_pthread.dylib             0x0000000180b8af94 _pthread_start + 136
+19  libsystem_pthread.dylib             0x0000000180b85d34 thread_start + 8
+
+2024-07-07 12:55:14,287 - ERROR - エラーが発生しました: Message: invalid selector
+from javascript error: {"status":32,"value":"Unable to locate an element with the xpath expression a[role='link'][tabindex='0'] svg[aria-label='検索'] because of the following error:\nSyntaxError: Failed to execute 'evaluate' on 'Document': The string 'a[role='link'][tabindex='0'] svg[aria-label='検索']' is not a valid XPath expression."}
+  (Session info: chrome=126.0.6478.127); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalid-selector-exception
+Stacktrace:
+0   chromedriver                        0x0000000100cdea80 chromedriver + 4385408
+1   chromedriver                        0x0000000100cd738c chromedriver + 4354956
+2   chromedriver                        0x00000001008f4b0c chromedriver + 281356
+3   chromedriver                        0x00000001008f8fd8 chromedriver + 298968
+4   chromedriver                        0x00000001008fae58 chromedriver + 306776
+5   chromedriver                        0x00000001008faed0 chromedriver + 306896
+6   chromedriver                        0x0000000100937114 chromedriver + 553236
+7   chromedriver                        0x000000010096fd24 chromedriver + 785700
+8   chromedriver                        0x000000010092beec chromedriver + 507628
+9   chromedriver                        0x000000010092c8c4 chromedriver + 510148
+10  chromedriver                        0x0000000100ca643c chromedriver + 4154428
+11  chromedriver                        0x0000000100caaea0 chromedriver + 4173472
+12  chromedriver                        0x0000000100c8bff8 chromedriver + 4046840
+13  chromedriver                        0x0000000100cab78c chromedriver + 4175756
+14  chromedriver                        0x0000000100c7efb8 chromedriver + 3993528
+15  chromedriver                        0x0000000100cc921c chromedriver + 4297244
+16  chromedriver                        0x0000000100cc9398 chromedriver + 4297624
+17  chromedriver                        0x0000000100cd6f84 chromedriver + 4353924
+18  libsystem_pthread.dylib             0x0000000180b8af94 _pthread_start + 136
+19  libsystem_pthread.dylib             0x0000000180b85d34 thread_start + 8
+
